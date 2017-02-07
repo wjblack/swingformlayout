@@ -33,6 +33,8 @@ Usage
 -----
 
 <pre>
+import com.wjblack.FormLayout;
+
 [...control creation...]
    
 // The form panel
@@ -49,6 +51,16 @@ form.add(FormLayout.BUTTONAREA, save);
    
 [...assign to JFrame, etc...]
 </pre>
+
+
+Compilation
+-----------
+
+You can build the JARfile by just typing "ant".
+
+"ant example" will also build and run the example program in example/.
+
+The JARfile for the library will appear in dist/lib.
 
 
 License
