@@ -4,29 +4,7 @@ SwingFormLayout
 This project implements a form-style layout to make it trivial to make Java
 containers of the following form:
 
-<table>
-  <tr>
-    <td>Name</td><td><input type="text" /></td>
-  </tr>
-  <tr>
-    <td>Address</td><td><input type="text" /></td>
-  </tr>
-  <tr>
-    <td>City/State/ZIP</td><td><input type="text" /></td>
-  </tr>
-  <tr>
-    <td>Interests</td><td><input type="text" /></td>
-  </tr>
-  <tr>
-    <td>Special Offers?</td><td><input type="text" /></td>
-  </tr>
-  <tr>
-    <td align="right">
-      <input type="submit" value="Cancel" />
-      <input type="submit" value="Save" />
-    </td>
-  </tr>
-</table>
+![sample form](src/com/wjblack/doc-files/FormLayout-1.gif)
 
 
 Usage
