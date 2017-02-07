@@ -7,6 +7,11 @@ containers of the following form:
 ![sample form](src/com/wjblack/doc-files/FormLayout-1.gif)
 
 
+Code Status
+-----------
+[![Build Status](https://travis-ci.org/wjblack/swingformlayout.svg?branch=master)](https://travis-ci.org/wjblack/swingformlayout)
+
+
 Usage
 -----
 
