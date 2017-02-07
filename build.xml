@@ -54,7 +54,7 @@
     </javac>
   </target>
 
-  <target name="junit" depends="buildjunit">
+  <target name="test" depends="buildjunit">
     <junit printsummary="yes" haltonfailure="yes">
       <classpath>
         <pathelement location="${test.dir}/junit.jar" />
