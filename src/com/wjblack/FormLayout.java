@@ -1,4 +1,4 @@
-package com.wjblack.swing;
+package com.wjblack;
 
 import java.awt.*;
 import java.util.*;
